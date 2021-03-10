@@ -1,0 +1,33 @@
+ *{
+ 	box-sizing: border-box;
+ }
+
+
+ h3{
+		 	margin-top: 100px;
+		 }
+		 
+		 #one,#two,#three {border-style: solid ;
+		 	background-color: grey;
+
+		 	margin:10px;}
+
+
+p {
+	font-size: 1.5em;
+}
+
+.header{
+	background-color: grey;
+	height: 10%;
+
+}
+
+.dropdown {
+	float:right;
+	right: 20%;
+}
+
+.i{
+color:white;
+}
